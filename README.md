@@ -1,4 +1,5 @@
-![MasterHead]([https://camo.githubusercontent.com/730beff67b68cddb97a1e755ed600cc6468f5ee5af58a573875891e8f501b05f/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fmy-leaning-journy-datacamp-wael-dagash&psig=AOvVaw2s3EH4e1FZQ4IHCquRLSOW&ust=1731334455248000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiZo8v50YkDFQAAAAAdAAAAABAJ))
+![MasterHead](https://camo.githubusercontent.com/730beff67b68cddb97a1e755ed600cc6468f5ee5af58a573875891e8f501b05f/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)
+
 
 <h1 align="center">Hi 👋, I'm Darshan Masane</h1>
 <h3 align="center">A passionate Data Analyst & Scientist from India</h3>
