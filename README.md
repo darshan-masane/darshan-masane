@@ -1,4 +1,4 @@
-![ds_background.png]
+![ds_background.png](https://github.com/darshan-masane/darshan-masane/blob/main/ds_background.png)
 
 
 
