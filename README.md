@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/730beff67b68cddb97a1e755ed600cc6468f5ee5af58a573875891e8f501b05f/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Digital_transformation_vector_art.svg/1920px-Digital_transformation_vector_art.svg.png)
 
 <h1 align="center">Hi 👋, I'm Darshan Masane</h1>
 <h3 align="center">A passionate Data Analyst & Scientist from India</h3>
