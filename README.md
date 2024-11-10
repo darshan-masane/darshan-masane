@@ -1,4 +1,4 @@
-![MasterHead](1626753867110.gif)
+![MasterHead][(https://github.com/your-username/your-repo-name/raw/main/path-to-your-gif.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fmy-leaning-journy-datacamp-wael-dagash&psig=AOvVaw1mClVItgV8h4so9O_ZN1eL&ust=1731332932566000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKic8vPz0YkDFQAAAAAdAAAAABB8))
 
 
 <h1 align="center">Hi 👋, I'm Darshan Masane</h1>
