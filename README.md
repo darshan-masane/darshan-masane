@@ -1,4 +1,4 @@
-![1626753867110.gif]
+![data_science.gif]
 
 
 <h1 align="center">Hi 👋, I'm Darshan Masane</h1>
