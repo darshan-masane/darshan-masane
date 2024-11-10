@@ -1,4 +1,4 @@
-![MasterHead](C:\Users\DARSHAN\OneDrive\Documents\project sem 5\images\1626753867110.gif)
+![MasterHead](1626753867110.gif)
 
 
 <h1 align="center">Hi 👋, I'm Darshan Masane</h1>
