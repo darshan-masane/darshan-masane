@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/730beff67b68cddb97a1e755ed600cc6468f5ee5af58a573875891e8f501b05f/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)
+![ds2.jpg]
 
 
 <h1 align="center">Hi 👋, I'm Darshan Masane</h1>
