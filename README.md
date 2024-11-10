@@ -1,4 +1,5 @@
-![ds2.jpg]
+![ds2](ds2.jpg)
+
 
 
 <h1 align="center">Hi 👋, I'm Darshan Masane</h1>
