@@ -44,8 +44,9 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"/>
 </a>
 <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/fluency/48/null/xampp.png" alt="XAMPP" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP" width="40" height="40"/>
 </a>
+
 
 
 
