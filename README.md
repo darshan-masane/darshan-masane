@@ -46,7 +46,7 @@
   <img src="https://img.icons8.com/color/48/000000/google-data-studio.png" alt="Looker Studio" width="40" height="40"/>
 </a>
 <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP" width="40" height="40"/>
+  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="40" height="40"/>
 </a>
 
 
