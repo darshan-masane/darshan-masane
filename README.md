@@ -48,9 +48,13 @@
 <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
   <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="40" height="40"/>
 </a>
-<a href="https://en.wikipedia.org/wiki/Pivot_table" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/pivot-table.png" alt="Pivot Table" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+</a>
+
 
 
 
