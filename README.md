@@ -46,8 +46,9 @@
   <img src="https://img.icons8.com/color/48/000000/google-data-studio.png" alt="Looker Studio" width="40" height="40"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/fluency/48/000000/machine-learning.png" alt="Machine Learning" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning" width="40" height="40"/>
 </a>
+
 
 
 
