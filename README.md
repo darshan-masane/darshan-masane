@@ -35,7 +35,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40" height="40"/> </a>
  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
@@ -45,6 +44,9 @@
 </a>
 <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/google-data-studio.png" alt="Looker Studio" width="40" height="40"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluency/48/000000/machine-learning.png" alt="Machine Learning" width="40" height="40"/>
 </a>
 
 
