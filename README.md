@@ -54,9 +54,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
 </a>
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+<!-- <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
   <img src=""C:\Users\darsh\Downloads\icons8-google-colab-48.png"" alt="Google Colab" width="40" height="40"/>
-</a>
+</a> -->
 
 
 
