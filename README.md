@@ -1,5 +1,5 @@
 
-<img src="https://github.com/darshan-masane/darshan-masane/blob/main/ds_background.png" alt="ds_background" width="800"/>
+<img src="https://github.com/darshan-masane/darshan-masane/blob/main/ds%26da.jpg" alt="ds_background" width="800"/>
 
 <h1 align="center">Hi 👋, I'm Darshan Masane</h1>
 <h3 align="center">A passionate Data Analyst & Scientist from India</h3>
